@@ -3337,8 +3337,8 @@
   </style>
     <style name="Theme.TodoApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#1D91EF</item>
-        <item name="colorPrimaryVariant">#FF877F</item>
+        <item name="colorPrimary">#FBA8A2</item>
+        <item name="colorPrimaryVariant">#1D91EF</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
